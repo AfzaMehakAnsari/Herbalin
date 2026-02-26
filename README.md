@@ -1,6 +1,6 @@
 # Herbalin  
-AI-Based Herbal Skin Care Recommendation System
-<img width="561" height="350" alt="image" src="https://github.com/user-attachments/assets/a3bda22f-ee04-4f12-bd30-e3c611e01b2d" />
+AI-POWERED SKIN DISEASE DETECTION SYSTEM AND HERBAL REMEDY SUGGESTION
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a3bda22f-ee04-4f12-bd30-e3c611e01b2d" />
 
 ## About the Project
 Herbalin is an AI-powered web application developed as a Final Year Project (FYP). It uses image processing and deep learning to classify common skin conditions such as acne and eczema. The system analyzes disease type, severity, and affected skin layer, then provides personalized herbal remedies and diet plans verified by a professional herbalist. Herbalin bridges modern AI with traditional herbal healthcare to offer accessible and natural skin treatment.
