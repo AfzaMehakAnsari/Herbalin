@@ -1,0 +1,121 @@
+.tips-section {
+  padding: 70px 90px;
+  background: #fff;
+}
+
+.tips-heading {
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 40px;
+  text-align: left;
+}
+
+.tips-row {
+  display: flex;
+  align-items: center;
+  gap: 12px; /* space between arrows and scroll area */
+}
+
+/* Scrollable cards container */
+.tips-scroll {
+  display: flex;
+  gap: 24px;
+  overflow: hidden;
+  width: calc((280px * 4) + (24px * 3)); /* visible 4 cards */
+}
+
+/* Arrow buttons */
+.arrow-btn {
+  height: 45px;
+  width: 55px;
+  font-size: 24px;
+  color : #fff;
+  border: none;
+  background: #1B5E44;
+  cursor: pointer;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+}
+
+/* Optional: hover effect */
+.arrow-btn:hover {
+  background: #278963;
+}
+
+/* TipsCard styles (update from previous step) */
+.tip-card {
+  width: 280px;
+  background: transparent;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+
+  /* border: 2px solid #1B5E44; green border */
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.tip-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 16px 16px 0 0;
+}
+
+.tip-content {
+  background: #f3f3f3;
+  margin-top: -40px;
+  padding: 20px 18px 22px;
+  border-radius: 0 0 18px 18px;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.tip-title {
+  background: transparent;
+  padding: 6px 18px;
+  border-radius: 20px;
+  font-weight: 700;
+  display: block;
+  margin: 0 auto;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.tip-desc {
+  font-size: 13px;
+  color: #333;
+  line-height: 1.5;
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.tip-link {
+  display: block;
+  margin-top: auto;
+  font-size: 12px;
+  text-decoration: none;
+  color: #000;
+}
+
+.tip-link span {
+  color: #0a6cff;
+  font-weight: 600;
+}

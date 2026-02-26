@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.input {
+  width: 100%;
+  border: 1px solid #d1d5db;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+/* CARD */
+
+.card {
+  position: relative;
+  width: 520px;
+  margin: 90px auto;
+  background: #e9f7f3;
+  padding: 50px 40px;
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+}
+
+.small-title {
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.card h2 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1b4332;
+  margin-bottom: 25px;
+}
+
+.illustration {
+  margin: 25px 0;
+}
+
+.description {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+/* ARROWS */
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 22px;
+  color: #7fbf9f;
+  cursor: pointer;
+}
+
+.left {
+  left: 20px;
+}
+
+.right {
+  right: 20px;
+}
+
+/* DOTS */
+
+.dots {
+  margin-bottom: 30px;
+}
+
+.dot {
+  height: 7px;
+  width: 7px;
+  background-color: #b7e4c7;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.dot.active {
+  background-color: #0f5132;
+}
+
+/* BUTTON */
+
+.btn {
+  background-color: #0f5132;
+  color: white;
+  border: none;
+  padding: 14px 55px;
+  border-radius: 30px;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #0c3f27;
+}
+
+.illustration {
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center;     /* vertical center */
+  margin: 20px 0;
+}
+
+.slide-icon {
+  color: #90ee90; /* light green */
+  font-size: 80px; /* adjust icon size if needed */
+  transition: transform 0.3s;
+}
+
+.slide-icon:hover {
+  transform: scale(1.1); /* subtle hover animation */
+}

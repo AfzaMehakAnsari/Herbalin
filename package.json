@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemailer": "^8.0.0",
+    "pdfkit": "^0.17.2",
+    "react-router-dom": "^7.13.0",
+    "recharts": "^3.7.0"
+  }
+}
