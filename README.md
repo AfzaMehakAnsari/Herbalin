@@ -1,5 +1,5 @@
 # Herbalin  
-AI-POWERED SKIN DISEASE DETECTION SYSTEM AND HERBAL REMEDY SUGGESTION
+AI-POWERED SKIN DISEASE CLASSIFICATION SYSTEM AND HERBAL REMEDY SUGGESTION
 <img width="561" height="350" alt="image" src="https://github.com/user-attachments/assets/a3bda22f-ee04-4f12-bd30-e3c611e01b2d" />
 
 ## About the Project
