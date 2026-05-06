@@ -1,4 +1,5 @@
 #  Herbalin – AI-Powered Skin Disease Detection & Herbal Recommendation System
+<img width="947" height="418" alt="image" src="https://github.com/user-attachments/assets/225c0c8d-c1e9-4d5f-a68e-ae54fea18666" />
 
 ##  Overview
 
@@ -22,6 +23,7 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
 ---
 
 ##  Key Features
+<img width="1569" height="711" alt="image" src="https://github.com/user-attachments/assets/dfb376b1-ae61-4f24-b904-8195d8cf5377" />
 
 ###  AI-Based Skin Disease Detection
 
@@ -40,17 +42,21 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
 
   * Epidermis
   * Dermis
+<img width="692" height="405" alt="image" src="https://github.com/user-attachments/assets/7b1c1d73-ddc4-4e22-9efd-0fa5c6f78c02" />
 
 ---
 
 ###  Personalized Herbal Recommendations
 
 * Temperament-based assessment (questionnaire)
+<img width="708" height="421" alt="image" src="https://github.com/user-attachments/assets/4619a69c-0ffd-420c-ac93-e6fe1713da3a" />
+
 * Customized:
 
   * Herbal remedies
   * Dietary suggestions
 * Inspired by traditional herbal medicine principles
+<img width="670" height="416" alt="image" src="https://github.com/user-attachments/assets/d2fdf926-d609-46c7-9f09-65da81059a7d" />
 
 ---
 
@@ -62,6 +68,7 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
   * Severity level
   * Skin layer analysis
   * Recommended treatments
+<img width="331" height="370" alt="image" src="https://github.com/user-attachments/assets/9d55075c-ca54-4030-994f-46f0186756bd" />
 
 ---
 
@@ -69,6 +76,7 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
 
 * Stores previous scans
 * Allows users to track progress over time
+<img width="947" height="418" alt="image" src="https://github.com/user-attachments/assets/3c626b90-f84b-4353-921c-885673cae7b1" />
 
 ---
 
@@ -76,6 +84,7 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
 
 * Book consultations with a **certified herbalist**
 * Integrated scheduling system
+<img width="608" height="412" alt="image" src="https://github.com/user-attachments/assets/e356a822-fe19-431b-8d19-658b61feb545" />
 
 ---
 
@@ -83,6 +92,7 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
 
 * Answers skin-related queries
 * Provides instant guidance and recommendations
+<img width="920" height="420" alt="image" src="https://github.com/user-attachments/assets/bf181909-c8d6-4af3-92af-94642bd20711" />
 
 ---
 
@@ -91,6 +101,7 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
 * Skincare tips
 * Herbal remedies
 * Awareness articles
+<img width="713" height="416" alt="image" src="https://github.com/user-attachments/assets/7e17f84b-95ea-4e35-9383-fc23383cbb97" />
 
 ---
 
@@ -98,6 +109,7 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
 
 * Users can provide feedback
 * Helps improve platform reliability
+<img width="731" height="331" alt="image" src="https://github.com/user-attachments/assets/13a7b7cb-13dd-4eca-9f7f-73ccf782fee6" />
 
 ---
 
@@ -106,6 +118,7 @@ Skin-related issues such as acne and eczema affect a large portion of the popula
 * Manage users
 * Control content (blogs, reviews, etc.)
 * Monitor system activity
+<img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/b2ab8900-2daa-4c78-958f-6f3bae73f456" />
 
 ---
 
